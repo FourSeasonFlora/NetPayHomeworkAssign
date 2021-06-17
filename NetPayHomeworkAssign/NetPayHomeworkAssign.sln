@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NetPayHomeworkAssign", "NetPayHomeworkAssign\NetPayHomeworkAssign.pyproj", "{DB0D82E4-40B3-4BED-9535-738BB52CFE7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB0D82E4-40B3-4BED-9535-738BB52CFE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0D82E4-40B3-4BED-9535-738BB52CFE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CECA362E-C5E2-4895-AD08-CDEE7B806C79}
+	EndGlobalSection
+EndGlobal
